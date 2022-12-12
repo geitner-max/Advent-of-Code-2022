@@ -2,9 +2,9 @@ __author__ = "Maximilian Geitner"
 __date__ = "08.12.2022"
 
 # direction:
-# 0: top
-# 1: right
-# 2: left
+# 0: left
+# 1: bottom
+# 2: right
 # 3: top
 
 
