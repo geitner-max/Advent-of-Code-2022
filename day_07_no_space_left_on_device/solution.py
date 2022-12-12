@@ -2,8 +2,8 @@
 __author__ = "Maximilian Geitner"
 __date__ = "07.12.2022"
 
-from Day_07_No_Space_Left_On_Device.file_node import FileNode
-from Day_07_No_Space_Left_On_Device.node import Node
+from day_07_no_space_left_on_device.file_node import FileNode
+from day_07_no_space_left_on_device.node import Node
 
 # Example Commands:
 # dir d
@@ -59,4 +59,3 @@ if __name__ == '__main__':
             selected_dir_total = x.total
     # Result is the total size of the deleted directory that fulfills all requirements
     print("Result Part Two: ", selected_dir, selected_dir_total)
-
