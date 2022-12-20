@@ -1,0 +1,18 @@
+Build Plan Info: 0 = ORE ROBOT, 1 = CLAY ROBOT, 2 = OBSIDIAN ROBOT, 3 = GEODE ROBOT
+
+
+Warning: Execution may take a few minutes, especially buildprint 3 requires a lot of computational resources.
+
+
+ID:  1 Opened geodes 21 , Amount Robots:  [4, 6, 8, 4] , Resources:  [29, 46, 25, 21]
+Build Plan:  None, None, None, None, 0, None, None, 0, None, 0, 1, 1, 1, 1, 1, 2, 1, 2, 2, 2, None, 2, 3, 2, 2, 3, 2, 3, None, 3, None, None,
+--> Amount of opened geodes:  21 Current Product:  21
+ID:  2 Opened geodes 7 , Amount Robots:  [4, 10, 6, 2] , Resources:  [27, 43, 18, 7]
+Build Plan:  None, None, None, None, 0, None, None, 0, None, 0, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, None, 2, None, 2, 1, 3, 2, 2, 3, None, None,
+--> Amount of opened geodes:  7 Current Product:  147
+ID:  3 Opened geodes 40 , Amount Robots:  [3, 4, 7, 7] , Resources:  [13, 28, 20, 40]
+Build Plan:  None, None, None, None, 0, None, None, 1, None, 1, None, 1, None, 1, 2, 2, None, 2, 0, 2, 3, 2, 3, 2, 3, 2, 3, 3, 3, None, 3, None,
+--> Amount of opened geodes:  40 Current Product:  5880
+Product of all three opened geode values (Solution Part Two):  5880
+
+Process finished with exit code 0
